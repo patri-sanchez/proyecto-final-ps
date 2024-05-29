@@ -5,7 +5,7 @@
     font-family: "open sans";
     }
     body{
-        background-color: rgb(82, 135, 233);
+        background-color: rgb(40, 107, 231);
     }
     header{
         width: 100;
@@ -124,7 +124,7 @@
         justify-content: center;
         align-items: center;
         height: 100vh;
-        background-color: rgb(82, 135, 233); /* Color de fondo del contenedor */
+        background-color: rgb(40, 107, 231); /* Color de fondo del contenedor */
         padding: 20px;
     }
 
